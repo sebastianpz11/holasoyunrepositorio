@@ -1,3 +1,3 @@
-mport random
-emojis = ["^^", "0_o", ":)", "¯\\_(ツ)_/¯", "(￢_￢)"]
-print(random.choice(emojis))
+import random
+hola = ["soy fan de fnaf", "nose que poner"hola"se tocar el clarinete"ono"inserte imajen de basurero"ouo"jsjssjjsjs"]
+print(random.choice(hola))
